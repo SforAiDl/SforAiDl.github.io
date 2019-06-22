@@ -1,11 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Alish
+subtitle: God
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: alish.jpeg
+thumbnail: alish.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

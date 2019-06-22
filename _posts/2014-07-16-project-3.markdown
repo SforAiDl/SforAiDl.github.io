@@ -1,11 +1,11 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Rijul Ganguly
+subtitle: Subcordi
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: sharad.jpeg
+thumbnail: sharad.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
