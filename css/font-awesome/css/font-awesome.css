@@ -1425,10 +1425,10 @@
 .fa-behance-square:before {
   content: "\f1b5";
 }
-.fa-snews:before {
+.fa-sMembers:before {
   content: "\f1b6";
 }
-.fa-snews-square:before {
+.fa-sMembers-square:before {
   content: "\f1b7";
 }
 .fa-recycle:before {
@@ -1524,7 +1524,7 @@
 }
 .fa-y-combinator-square:before,
 .fa-yc-square:before,
-.fa-hacker-news:before {
+.fa-hacker-Members:before {
   content: "\f1d4";
 }
 .fa-tencent-weibo:before {
@@ -1591,7 +1591,7 @@
 .fa-yelp:before {
   content: "\f1e9";
 }
-.fa-newspaper-o:before {
+.fa-Memberspaper-o:before {
   content: "\f1ea";
 }
 .fa-wifi:before {

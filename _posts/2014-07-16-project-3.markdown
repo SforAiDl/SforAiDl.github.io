@@ -1,11 +1,11 @@
 ---
-title: Rijul Ganguly
+title: port3
 subtitle: Subcordi
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: sharad.jpeg
-thumbnail: sharad.jpeg
+img: dreams.png
+thumbnail: dreams.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -1,11 +1,11 @@
 ---
-title: Sharad Chitlangia
+title: port2
 subtitle: Coordi
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: sharad.jpeg
-thumbnail: sharad.jpeg
+img: dreams.png
+thumbnail: dreams.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
