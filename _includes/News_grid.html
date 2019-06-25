@@ -4,26 +4,11 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">News</h2>
-                    <h3 class="section-subheading text-muted">Here is the News.</h3>
+                    <h3 class="section-subheading text-muted">Latest news in the community.</h3>
                 </div>
             </div>
             <div class="row">
-            {% for post in site.posts %}
-                <div class="col-md-4 col-sm-6 News-item">
-                    <a href="#NewsModal{{ post.modal-id }}" class="News-link" data-toggle="modal">
-                        <div class="News-hover">
-                            <div class="News-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/News/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
-                    <div class="News-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
-                    </div>
-                </div>
-            {% endfor %}
+                <p>GSoC selections:</p>
             </div>
         </div>
     </section>
