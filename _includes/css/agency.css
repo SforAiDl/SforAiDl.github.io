@@ -10,6 +10,20 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.img-size{
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  object-fit: cover !important;
+}
+
+.img-size2{
+  border-radius: 50%;
+  height: 157px;
+  width: 200px;
+  object-fit: cover !important;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }

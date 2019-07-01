@@ -18,6 +18,20 @@ body {
     color: #333;
 }
 
+.img-size{
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  object-fit: cover !important;
+}
+
+.img-size2{
+  border-radius: 50%;
+  height: 157px;
+  width: 200px;
+  object-fit: cover !important;
+}
+
 .text-muted {
     color: #777;
 }
