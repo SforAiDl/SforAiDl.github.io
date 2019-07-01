@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Members names, titles and social links
 people:
 - name: Pranav Garg
-  pic: alish
+  pic: pranav.png
   position: GOD
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: https://github.com/alishdipani
 
 - name: Sharad Chitlangia
-  pic: alish
+  pic: sharad.jpeg
   position: GOD3
   social:
     - title: twitter
@@ -43,7 +43,7 @@ people:
       url: #
 
 - name: Mehul Rastogi
-  pic: alish
+  pic: sharad.jpeg
   position: GOD4
   social:
     - title: twitter
@@ -54,7 +54,7 @@ people:
       url: #
 
 - name: Rijul Ganguly
-  pic: alish
+  pic: sharad.jpeg
   position: GOD4
   social:
     - title: twitter
@@ -65,7 +65,7 @@ people:
       url: #
 
 - name: Ashwin Vaswani
-  pic: alish
+  pic: sharad.jpeg
   position: GOD4
   social:
     - title: twitter
@@ -77,7 +77,7 @@ people:
 
 
 - name: Het Shah
-  pic: alish
+  pic: het.jpg
   position: GOD4
   social:
     - title: twitter
@@ -89,7 +89,7 @@ people:
 
 
 - name: Rajaswa Patil
-  pic: alish
+  pic: rajaswa.png
   position: GOD4
   social:
     - title: twitter
@@ -101,7 +101,7 @@ people:
 
 
 - name: Ajay Subramanium
-  pic: alish
+  pic: ajay.png
   position: GOD4
   social:
     - title: twitter
@@ -112,7 +112,7 @@ people:
       url: https://github.com/ajaysub110
 
 - name: Aditya Ahuja
-  pic: aditya
+  pic: aditya.png
   position: GOD4
   social:
     - title: twitter
@@ -123,7 +123,7 @@ people:
       url: https://github.com/adiah80
 
 - name: Sauradeep Chakraborty
-  pic: alish
+  pic: saura.png
   position: GOD4
   social:
     - title: twitter
@@ -134,7 +134,7 @@ people:
       url: https://github.com/sauradefy99
 
 - name: Shangeth Rajaa
-  pic: alish
+  pic: shangeth.jpeg
   position: GOD4
   social:
     - title: twitter
@@ -145,7 +145,7 @@ people:
       url: https://github.com/shangeth
 
 - name: Pranav Mahajan
-  pic: alish
+  pic: pranavM.jpg
   position: GOD4
   social:
     - title: twitter
