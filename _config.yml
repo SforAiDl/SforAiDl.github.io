@@ -25,13 +25,13 @@ people:
   position: GOD2
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/Alu57202
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/alish-dipani/
+    - title: google-plus
+      url: https://github.com/alishdipani
 
-- name: Sharad Hitlangia
+- name: Sharad Chitlangia
   pic: alish
   position: GOD3
   social:
@@ -81,11 +81,11 @@ people:
   position: GOD4
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/het__shah
+    - title: linkedin
+      url: https://www.linkedin.com/in/het-shah163/
     - title: google-plus
-      url: #
+      url: https://www.github.com/Het-Shah
 
 
 - name: Rajaswa Patil
@@ -93,11 +93,11 @@ people:
   position: GOD4
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/rajaswapatil
+    - title: linkedin
+      url: https://in.linkedin.com/in/rajaswa-patil
     - title: google-plus
-      url: #
+      url: https://github.com/rajaswa
 
 
 - name: Ajay Subramanium
@@ -105,55 +105,55 @@ people:
   position: GOD4
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/ajaysub110
+    - title: linkedin
+      url: https://www.linkedin.com/in/ajaysub110
     - title: google-plus
-      url: #
+      url: https://github.com/ajaysub110
 
 - name: Aditya Ahuja
-  pic: alish
+  pic: aditya
   position: GOD4
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/adiah07
+    - title: linkedin
+      url: https://www.linkedin.com/in/aditya-ahuja-37b57114b/
     - title: google-plus
-      url: #
+      url: https://github.com/adiah80
 
-- name: Sauradeep Chakravarthy
+- name: Sauradeep Chakraborty
   pic: alish
   position: GOD4
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/SauratheInferno
+    - title: linkedin
+      url: https://www.linkedin.com/in/souradeep-chakraborty-73a8607b/
     - title: google-plus
-      url: #
+      url: https://github.com/sauradefy99
 
-- name: Shangeth
+- name: Shangeth Rajaa
   pic: alish
   position: GOD4
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/shangethr
+    - title: linkedin
+      url: https://www.linkedin.com/in/shangeth/
     - title: google-plus
-      url: #
+      url: https://github.com/shangeth
 
 - name: Pranav Mahajan
   pic: alish
   position: GOD4
   social:
     - title: twitter
-      url: #
-    - title: facebook
+      url: https://twitter.com/iam_mahajan
+    - title: linkedin
       url: #
     - title: google-plus
-      url: #
+      url: https://github.com/PranavMahajan25
 
 
 
