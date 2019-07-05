@@ -17,7 +17,7 @@ people:
       url: #
     - title: linkedin
       url: #
-    - title: google-plus
+    - title: github
       url: #
 
 - name: Mehul Rastogi
@@ -28,7 +28,7 @@ people:
       url: #
     - title: linkedin
       url: #
-    - title: google-plus
+    - title: github
       url: #
 
 - name: Rijul Ganguly
@@ -39,12 +39,12 @@ people:
       url: #
     - title: linkedin
       url: #
-    - title: google-plus
+    - title: github
       url: #
 
 - name: Ashwin Vaswani
   pic: ashwin3.jpg
-  position: 
+  position: Member / Web Admin
   social:
     - title: twitter
       url: https://twitter.com/ashwin_vaswani
@@ -62,7 +62,7 @@ people:
       url: https://twitter.com/het__shah
     - title: linkedin
       url: https://www.linkedin.com/in/het-shah163/
-    - title: google-plus
+    - title: github
       url: https://www.github.com/Het-Shah
 
 
@@ -74,7 +74,7 @@ people:
       url: https://twitter.com/rajaswapatil
     - title: linkedin
       url: https://in.linkedin.com/in/rajaswa-patil
-    - title: google-plus
+    - title: github
       url: https://github.com/rajaswa
 
 
@@ -86,7 +86,7 @@ people:
       url: https://twitter.com/ajaysub110
     - title: linkedin
       url: https://www.linkedin.com/in/ajaysub110
-    - title: google-plus
+    - title: github
       url: https://github.com/ajaysub110
 
 - name: Aditya Ahuja
@@ -97,7 +97,7 @@ people:
       url: https://twitter.com/adiah07
     - title: linkedin
       url: https://www.linkedin.com/in/aditya-ahuja-37b57114b/
-    - title: google-plus
+    - title: github
       url: https://github.com/adiah80
 
 - name: Sauradeep Chakraborty
@@ -108,7 +108,7 @@ people:
       url: https://twitter.com/SauratheInferno
     - title: linkedin
       url: https://www.linkedin.com/in/souradeep-chakraborty-73a8607b/
-    - title: google-plus
+    - title: github
       url: https://github.com/sauradefy99
 
 - name: Shangeth Rajaa
@@ -119,7 +119,7 @@ people:
       url: https://twitter.com/shangethr
     - title: linkedin
       url: https://www.linkedin.com/in/shangeth/
-    - title: google-plus
+    - title: github
       url: https://github.com/shangeth
 
 - name: Pranav Mahajan
@@ -130,7 +130,7 @@ people:
       url: https://twitter.com/iam_mahajan
     - title: linkedin
       url: #
-    - title: google-plus
+    - title: github
       url: https://github.com/PranavMahajan25
 
 - name: Pranav Garg
@@ -139,9 +139,9 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: linkedin
       url: #
-    - title: stack-overflow
+    - title: github
       url: #
 
 - name: Alish Dipani
@@ -152,7 +152,7 @@ people:
       url: https://twitter.com/Alu57202
     - title: linkedin
       url: https://www.linkedin.com/in/alish-dipani/
-    - title: google-plus
+    - title: github
       url: https://github.com/alishdipani
 
 
