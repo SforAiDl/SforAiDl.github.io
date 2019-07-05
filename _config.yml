@@ -9,28 +9,6 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Members names, titles and social links
 people:
-- name: Pranav Garg
-  pic: pranav.png
-  position: GOD
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Alish Dipani
-  pic: alish.jpeg
-  position: GOD2
-  social:
-    - title: twitter
-      url: https://twitter.com/Alu57202
-    - title: linkedin
-      url: https://www.linkedin.com/in/alish-dipani/
-    - title: google-plus
-      url: https://github.com/alishdipani
-
 - name: Sharad Chitlangia
   pic: sharad.jpeg
   position: GOD3
@@ -43,7 +21,7 @@ people:
       url: #
 
 - name: Mehul Rastogi
-  pic: sharad.jpeg
+  pic: mehul.jpg
   position: GOD4
   social:
     - title: twitter
@@ -54,7 +32,7 @@ people:
       url: #
 
 - name: Rijul Ganguly
-  pic: sharad.jpeg
+  pic: ganguly.jpg
   position: GOD4
   social:
     - title: twitter
@@ -65,7 +43,7 @@ people:
       url: #
 
 - name: Ashwin Vaswani
-  pic: sharad.jpeg
+  pic: ashwin3.jpg
   position: GOD4
   social:
     - title: twitter
@@ -154,6 +132,29 @@ people:
       url: #
     - title: google-plus
       url: https://github.com/PranavMahajan25
+
+- name: Pranav Garg
+  pic: pranav.png
+  position: Alumni
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Alish Dipani
+  pic: alish.jpeg
+  position: Alumni
+  social:
+    - title: twitter
+      url: https://twitter.com/Alu57202
+    - title: linkedin
+      url: https://www.linkedin.com/in/alish-dipani/
+    - title: google-plus
+      url: https://github.com/alishdipani
+
 
 
 
