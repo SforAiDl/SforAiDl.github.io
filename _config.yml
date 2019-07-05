@@ -11,52 +11,52 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Sharad Chitlangia
   pic: sharad.jpeg
-  position: GOD3
+  position: President
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: linkedin
       url: #
     - title: google-plus
       url: #
 
 - name: Mehul Rastogi
   pic: mehul.jpg
-  position: GOD4
+  position: Member
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: linkedin
       url: #
     - title: google-plus
       url: #
 
 - name: Rijul Ganguly
   pic: ganguly.jpg
-  position: GOD4
+  position: Vice President / Web Admin
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: linkedin
       url: #
     - title: google-plus
       url: #
 
 - name: Ashwin Vaswani
   pic: ashwin3.jpg
-  position: GOD4
+  position: 
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/ashwin_vaswani
+    - title: linkedin
+      url: https://www.linkedin.com/in/ashwin-vaswani-3314aa169/
+    - title: github
+      url: https://www.github.com/ashwinvaswani
 
 
 - name: Het Shah
   pic: het.jpg
-  position: GOD4
+  position: Member / Web Admin
   social:
     - title: twitter
       url: https://twitter.com/het__shah
@@ -68,7 +68,7 @@ people:
 
 - name: Rajaswa Patil
   pic: rajaswa.png
-  position: GOD4
+  position: Member
   social:
     - title: twitter
       url: https://twitter.com/rajaswapatil
@@ -80,7 +80,7 @@ people:
 
 - name: Ajay Subramanium
   pic: ajay.png
-  position: GOD4
+  position: Member
   social:
     - title: twitter
       url: https://twitter.com/ajaysub110
@@ -91,7 +91,7 @@ people:
 
 - name: Aditya Ahuja
   pic: aditya.png
-  position: GOD4
+  position: Member
   social:
     - title: twitter
       url: https://twitter.com/adiah07
@@ -102,7 +102,7 @@ people:
 
 - name: Sauradeep Chakraborty
   pic: saura.png
-  position: GOD4
+  position: Member
   social:
     - title: twitter
       url: https://twitter.com/SauratheInferno
@@ -113,7 +113,7 @@ people:
 
 - name: Shangeth Rajaa
   pic: shangeth.jpeg
-  position: GOD4
+  position: Member
   social:
     - title: twitter
       url: https://twitter.com/shangethr
@@ -124,7 +124,7 @@ people:
 
 - name: Pranav Mahajan
   pic: pranavM.jpg
-  position: GOD4
+  position: Member
   social:
     - title: twitter
       url: https://twitter.com/iam_mahajan
