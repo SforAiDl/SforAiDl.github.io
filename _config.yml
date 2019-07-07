@@ -14,11 +14,11 @@ people:
   position: President
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/sharad24sc
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/sharad-chitlangia-939014157
     - title: github
-      url: #
+      url: https://sharad24.github.io/en/
 
 - name: Mehul Rastogi
   pic: mehul.jpg
