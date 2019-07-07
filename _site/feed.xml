@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome!</title>
+    <title></title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://www.ashwinvaswani.github.io/new-website//</link>
-    <atom:link href="https://www.ashwinvaswani.github.io/new-website//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 05 Jul 2019 10:30:55 +0530</pubDate>
-    <lastBuildDate>Fri, 05 Jul 2019 10:30:55 +0530</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/new-website//</link>
+    <atom:link href="http://localhost:4000/new-website//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 07 Jul 2019 12:39:30 +0530</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2019 12:39:30 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Project 1</title>
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://www.ashwinvaswani.github.io/new-website//2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://www.ashwinvaswani.github.io/new-website//2014/07/18/project-1/</guid>
+        <link>http://localhost:4000/new-website//2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/new-website//2014/07/18/project-1/</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://www.ashwinvaswani.github.io/new-website//2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://www.ashwinvaswani.github.io/new-website//2014/07/17/project-2/</guid>
+        <link>http://localhost:4000/new-website//2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/new-website//2014/07/17/project-2/</guid>
         
         
       </item>
@@ -36,8 +36,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://www.ashwinvaswani.github.io/new-website//2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://www.ashwinvaswani.github.io/new-website//2014/07/16/project-3/</guid>
+        <link>http://localhost:4000/new-website//2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/new-website//2014/07/16/project-3/</guid>
         
         
       </item>
@@ -47,8 +47,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://www.ashwinvaswani.github.io/new-website//web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://www.ashwinvaswani.github.io/new-website//web%20development/2014/07/15/project-4/</guid>
+        <link>http://localhost:4000/new-website//web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/new-website//web%20development/2014/07/15/project-4/</guid>
         
         
         <category>Web Development</category>
@@ -60,8 +60,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://www.ashwinvaswani.github.io/new-website//web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://www.ashwinvaswani.github.io/new-website//web%20development/2014/07/15/project-6/</guid>
+        <link>http://localhost:4000/new-website//web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/new-website//web%20development/2014/07/15/project-6/</guid>
         
         
         <category>Web Development</category>
@@ -73,8 +73,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0530</pubDate>
-        <link>https://www.ashwinvaswani.github.io/new-website//web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://www.ashwinvaswani.github.io/new-website//web%20development/2014/07/14/project-5/</guid>
+        <link>http://localhost:4000/new-website//web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/new-website//web%20development/2014/07/14/project-5/</guid>
         
         
         <category>Web Development</category>

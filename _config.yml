@@ -1,166 +1,172 @@
 url: https://www.ashwinvaswani.github.io
-baseurl: /new-website/
+baseurl: /new-website
 
 # Site settings
-title: Welcome!
+title: #Welcome!
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Members names, titles and social links
 people:
-- name: Sharad Chitlangia
-  pic: sharad.jpeg
-  position: President
-  social:
-    - title: twitter
-      url: #
-    - title: linkedin
-      url: #
-    - title: github
-      url: #
-
-- name: Mehul Rastogi
-  pic: mehul.jpg
-  position: Member
-  social:
-    - title: twitter
-      url: #
-    - title: linkedin
-      url: #
-    - title: github
-      url: #
-
-- name: Rijul Ganguly
-  pic: ganguly.jpg
-  position: Vice President / Web Admin
-  social:
-    - title: twitter
-      url: #
-    - title: linkedin
-      url: #
-    - title: github
-      url: #
-
-- name: Ashwin Vaswani
-  pic: ashwin3.jpg
-  position: Member / Web Admin
-  social:
-    - title: twitter
-      url: https://twitter.com/ashwin_vaswani
-    - title: linkedin
-      url: https://www.linkedin.com/in/ashwin-vaswani-3314aa169/
-    - title: github
-      url: https://www.github.com/ashwinvaswani
-
-
-- name: Het Shah
-  pic: het.jpg
-  position: Member / Web Admin
-  social:
-    - title: twitter
-      url: https://twitter.com/het__shah
-    - title: linkedin
-      url: https://www.linkedin.com/in/het-shah163/
-    - title: github
-      url: https://www.github.com/Het-Shah
-
-
-- name: Rajaswa Patil
-  pic: rajaswa.png
-  position: Member
-  social:
-    - title: twitter
-      url: https://twitter.com/rajaswapatil
-    - title: linkedin
-      url: https://in.linkedin.com/in/rajaswa-patil
-    - title: github
-      url: https://github.com/rajaswa
-
-
-- name: Ajay Subramanium
-  pic: ajay.png
-  position: Member
-  social:
-    - title: twitter
-      url: https://twitter.com/ajaysub110
-    - title: linkedin
-      url: https://www.linkedin.com/in/ajaysub110
-    - title: github
-      url: https://github.com/ajaysub110
-
-- name: Aditya Ahuja
-  pic: aditya.png
-  position: Member
-  social:
-    - title: twitter
-      url: https://twitter.com/adiah07
-    - title: linkedin
-      url: https://www.linkedin.com/in/aditya-ahuja-37b57114b/
-    - title: github
-      url: https://github.com/adiah80
-
-- name: Sauradeep Chakraborty
-  pic: saura.png
-  position: Member
-  social:
-    - title: twitter
-      url: https://twitter.com/SauratheInferno
-    - title: linkedin
-      url: https://www.linkedin.com/in/souradeep-chakraborty-73a8607b/
-    - title: github
-      url: https://github.com/sauradefy99
-
-- name: Shangeth Rajaa
-  pic: shangeth.jpeg
-  position: Member
-  social:
-    - title: twitter
-      url: https://twitter.com/shangethr
-    - title: linkedin
-      url: https://www.linkedin.com/in/shangeth/
-    - title: github
-      url: https://github.com/shangeth
-
-- name: Pranav Mahajan
-  pic: pranavM.jpg
-  position: Member
-  social:
-    - title: twitter
-      url: https://twitter.com/iam_mahajan
-    - title: linkedin
-      url: #
-    - title: github
-      url: https://github.com/PranavMahajan25
-
 - name: Pranav Garg
   pic: pranav.png
-  position: Alumni
+  position: GOD
   social:
     - title: twitter
       url: #
-    - title: linkedin
+    - title: facebook
       url: #
-    - title: github
+    - title: stack-overflow
       url: #
 
 - name: Alish Dipani
   pic: alish.jpeg
-  position: Alumni
+  position: GOD2
   social:
     - title: twitter
       url: https://twitter.com/Alu57202
     - title: linkedin
       url: https://www.linkedin.com/in/alish-dipani/
-    - title: github
+    - title: google-plus
       url: https://github.com/alishdipani
 
+- name: Sharad Chitlangia
+  pic: sharad.jpeg
+  position: GOD3
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Mehul Rastogi
+  pic: sharad.jpeg
+  position: GOD4
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Rijul Ganguly
+  pic: sharad.jpeg
+  position: GOD4
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Ashwin Vaswani
+  pic: sharad.jpeg
+  position: GOD4
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+
+- name: Het Shah
+  pic: het.jpg
+  position: GOD4
+  social:
+    - title: twitter
+      url: https://twitter.com/het__shah
+    - title: linkedin
+      url: https://www.linkedin.com/in/het-shah163/
+    - title: google-plus
+      url: https://www.github.com/Het-Shah
+
+
+- name: Rajaswa Patil
+  pic: rajaswa.png
+  position: GOD4
+  social:
+    - title: twitter
+      url: https://twitter.com/rajaswapatil
+    - title: linkedin
+      url: https://in.linkedin.com/in/rajaswa-patil
+    - title: google-plus
+      url: https://github.com/rajaswa
+
+
+- name: Ajay Subramanium
+  pic: ajay.png
+  position: GOD4
+  social:
+    - title: twitter
+      url: https://twitter.com/ajaysub110
+    - title: linkedin
+      url: https://www.linkedin.com/in/ajaysub110
+    - title: google-plus
+      url: https://github.com/ajaysub110
+
+- name: Aditya Ahuja
+  pic: aditya.png
+  position: GOD4
+  social:
+    - title: twitter
+      url: https://twitter.com/adiah07
+    - title: linkedin
+      url: https://www.linkedin.com/in/aditya-ahuja-37b57114b/
+    - title: google-plus
+      url: https://github.com/adiah80
+
+- name: Sauradeep Chakraborty
+  pic: saura.png
+  position: GOD4
+  social:
+    - title: twitter
+      url: https://twitter.com/SauratheInferno
+    - title: linkedin
+      url: https://www.linkedin.com/in/souradeep-chakraborty-73a8607b/
+    - title: google-plus
+      url: https://github.com/sauradefy99
+
+- name: Shangeth Rajaa
+  pic: shangeth.jpeg
+  position: GOD4
+  social:
+    - title: twitter
+      url: https://twitter.com/shangethr
+    - title: linkedin
+      url: https://www.linkedin.com/in/shangeth/
+    - title: google-plus
+      url: https://github.com/shangeth
+
+- name: Pranav Mahajan
+  pic: pranavM.jpg
+  position: GOD4
+  social:
+    - title: twitter
+      url: https://twitter.com/iam_mahajan
+    - title: linkedin
+      url: #
+    - title: google-plus
+      url: https://github.com/PranavMahajan25
 
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  
+  - title: twitter
+    url:
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url:
+  - title: bitbucket
+    url:
   - title: github
     url: https://github.com/SforAiDl
 

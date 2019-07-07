@@ -1,3 +1,29 @@
 ---
 layout: style
 ---
+
+.navbar-color {
+  background-color: #ffffff !important;
+}
+
+.navbar-logo {
+  widht: 25px !important;
+  height: 25px !important;
+  color: #ffffff;
+}
+
+.navbar-title:hover {
+  background-color: #{{ site.data.template.color.primary }} !important;
+  color: #ffffff ;
+}
+
+.page-dark{
+  background-color: #{{ site.data.template.color.primary }} ;
+  color: #ffffff ;
+}
+
+.main-page {
+  height: 100%;
+  width: 100%;
+  background-color: #{{ site.data.template.color.primary }} ;
+}
